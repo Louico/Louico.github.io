@@ -1,2 +1,3 @@
 name: xiaoyao Zhang
 markdown: kramdown
+permalink: /blog/:title
